@@ -1,6 +1,6 @@
 {
   "name": "@laufire/app",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A base for the app layer and business layer pattern.",
   "main": "./dist/index.js",
   "scripts": {
