@@ -8,12 +8,12 @@
 
 ## Installation
 ```sh
-$ npm install --save app
+$ npm install --save @laufire/app
 ```
 
 ## Keys
 
-* All the packages should use the same version of the package share the app-layer.
+* The package adds a custom object to the global scope, named *appLayer*, to share variables across packages.
 
 # Development
 
